@@ -1,0 +1,15 @@
+{
+  "name": "bottom_navigation_web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start:dev": "vite",
+    "start": "vite preview",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "sass": "^1.68.0",
+    "vite": "^4.4.10"
+  }
+}
